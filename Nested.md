@@ -9,7 +9,8 @@ For this step we use this command:
 
 ![image](https://cloud.githubusercontent.com/assets/19524941/24472484/861c63e2-14ce-11e7-9f2a-32a6a2e0da39.png)
 
-and we have files,
+or this command:
+![image](https://cloud.githubusercontent.com/assets/19524941/24508367/da36a3a0-156b-11e7-92aa-fd81b44db50d.png)
 
 ![image](https://cloud.githubusercontent.com/assets/19524941/24472500/9a921a6a-14ce-11e7-8079-4d2fb4910928.png)
 
